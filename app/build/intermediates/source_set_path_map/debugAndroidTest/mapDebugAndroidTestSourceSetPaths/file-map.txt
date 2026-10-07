@@ -1,0 +1,4 @@
+com.musicmania.app.test.app-androidTest-0 C:\Users\Abinaya\Downloads\MusicMania-Final-Apple-Project\MusicMania\app\build\generated\res\resValues\androidTest\debug
+com.musicmania.app.test.app-mergeDebugAndroidTestResources-1 C:\Users\Abinaya\Downloads\MusicMania-Final-Apple-Project\MusicMania\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.musicmania.app.test.app-mergeDebugAndroidTestResources-2 C:\Users\Abinaya\Downloads\MusicMania-Final-Apple-Project\MusicMania\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.musicmania.app.test.app-debugAndroidTest-3 C:\Users\Abinaya\Downloads\MusicMania-Final-Apple-Project\MusicMania\app\build\intermediates\merged_res\debugAndroidTest\mergeDebugAndroidTestResources

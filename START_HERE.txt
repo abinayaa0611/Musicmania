@@ -1,0 +1,11 @@
+MUSIC MANIA — START HERE
+
+1. Extract this ZIP.
+2. In Android Studio choose File > Open.
+3. Open the folder named MusicMania (the folder containing settings.gradle.kts and app).
+4. Let Android Studio sync/download Gradle and SDK components.
+5. Select an Android emulator (Pixel 8 is fine) and press Run.
+
+Do NOT open an outer extraction folder above MusicMania.
+
+The app uses the Apple iTunes Search API and plays the returned previewUrl clips (normally 30 seconds). No fake track objects are bundled as the music catalog.
