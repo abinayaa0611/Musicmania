@@ -1,0 +1,15 @@
+# Android
+.gradle/
+.kotlin/
+.idea/
+build/
+app/build/
+local.properties
+
+# Signing
+*.jks
+*.keystore
+
+# OS
+.DS_Store
+Thumbs.db
